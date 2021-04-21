@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!-- Print ZPL files -->
+  <customer
+		container_print="AZURE CONTAINERNAME"
+		printer_name="ZEBRA PRINTER"
+	/>
+</config>
