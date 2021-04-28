@@ -21,9 +21,7 @@ In the example, a ZPL string is sent to a Zebra printer using an open socket con
 
 Optionally you can use any publically available libraries to send contents of PDF files to printers in your network.
 
-Service to Upload and Download Azure Blob Files
-
-
+An example tool can be pdfprint.exe from VeryPDF.com. This can be executed from the MSDos command prompt. Another option is to add SpirePDF to the project from nuget.org.
 
 ## How to install?
 1. Build solution
