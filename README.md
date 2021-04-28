@@ -1,7 +1,7 @@
 # QBS.Zebra.Blob.PrintService
 Print Service to stream ZPL from Azure Blob to Zebra Printers
 
-# AzureBlobService
+# Cloud Printing
 Printing in cloud scenario's can be a bit challenging, especially if the amount of prints are relatively high and/or the printer is not modern (born in the cloud).
 
 Examples used here is a zebra printer using ZPL streams but other examples could be printing a CMR (freight document) using matrix printers.
